@@ -1,6 +1,3 @@
-print("test python file")
 
-print("열심히 하겠습니다")
-
-print("수정")
+print("팀원 이름을 외웁시다.")
 
