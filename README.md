@@ -1,23 +1,4 @@
-### cocon
-## cocon
-# cocon
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## README.md 작성
 
 **SK네트웍스 Family AI 캠프 9기 1차 프로젝트**
 
